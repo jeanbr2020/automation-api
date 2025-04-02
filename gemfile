@@ -1,0 +1,8 @@
+# Gemfile
+source 'https://rubygems.org'
+
+gem 'cucumber'
+gem 'capybara'
+gem 'rest-client'  # Ou 'httparty' para chamadas HTTP
+gem 'json'         # Para manipular respostas JSON
+gem 'rspec-expectations'  # Para asserções mais poderosas
