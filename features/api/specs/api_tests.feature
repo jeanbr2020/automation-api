@@ -4,7 +4,7 @@ Feature: Testar API de Usuários
   Scenario: Listar usuários
     When eu envio uma requisição GET para "/posts/1"
     Then a resposta deve ter status 200
-    And a resposta deve retornar um post de id
+    And a resposta deve retornar um post de id "1"
 
   #Scenario: Criar um usuário
     #When eu envio uma requisição POST para "/api/users" com:

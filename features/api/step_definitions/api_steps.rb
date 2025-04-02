@@ -19,12 +19,13 @@ Then(/^a resposta deve ter status (\d+)$/) do |status_code|
   expect(@response.code).to eq(status_code.to_i)
 end
 
-Then(/^a resposta deve retornar um post de id (\d+)$/) do |id|
-    body = JSON.parse(@response.body)
-    expect(body['id'].to_s).to eq(id)
-  end
+Then(/^a resposta deve retornar um post de id "(.*)"$/) do |expected_id|
+  body = JSON.parse(@response.body)
+  expect(body['id'].to_s).to eq(expected_id)
+end
 
 Then(/^a resposta deve conter o nome "(.*)"$/) do |name|
   body = JSON.parse(@response.body)
   expect(body['name']).to eq(name)
 end
+
