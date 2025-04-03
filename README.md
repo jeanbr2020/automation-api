@@ -78,4 +78,4 @@ bundle exec cucumber
 <a id="license"></a>
 # 📜 License
 
-Distribuído sob a licença MIT. Consulte LICENCIAMENTO para mais detalhes.
+Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
