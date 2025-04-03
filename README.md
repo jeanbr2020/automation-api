@@ -75,6 +75,7 @@ bundle exec cucumber
 
   Open a Pull Request
 
+<a id="license"></a>
 # 📜 License
 
 Distribuído sob a licença MIT. Consulte LICENCIAMENTO para mais detalhes.
