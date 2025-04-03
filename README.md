@@ -19,6 +19,7 @@ Enterprise-grade API testing solution with Cucumber and Ruby.
 | ✅ REST API Testing | Full HTTP method coverage with validation |
 | 📝 BDD Syntax | Human-readable Gherkin scenarios |
 
+<a id="quick-start"></a>
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -52,6 +53,7 @@ gem install rest-client rspec-expectations cucumber
 bundle install
 ```
 
+<a id="running-tests"></a>
 ## 🧪 Running Tests
 
 ### Execute all tests
@@ -60,8 +62,7 @@ bundle install
 bundle exec cucumber
 ```
 
-
-
+<a id="contributing"></a>
 # 🤝 How to Contribute
   
   Fork the repository
