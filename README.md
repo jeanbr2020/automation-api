@@ -9,7 +9,7 @@ Enterprise-grade API testing solution with Cucumber and Ruby.
 - [Features](#features)
 - [Quick Start](#quick-start)
 - [Running Tests](#running-tests)
-- [Contributing](#contributing)
+- [How to Contribute](#contributing)
 - [License](#license)
 
 <a id="features"></a>
