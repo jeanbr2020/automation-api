@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # API Test Automation Framework
 
 ![Ruby](https://img.shields.io/badge/Ruby-3.3+-red.svg)
@@ -81,4 +79,3 @@ bundle exec cucumber
 # 📜 License
 
 Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
->>>>>>> 1c6eda2f36df768cc24e8e09619550ff5bb3afd8
