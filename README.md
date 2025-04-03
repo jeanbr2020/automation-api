@@ -1,7 +1,6 @@
 # API Test Automation Framework
 
 ![Ruby](https://img.shields.io/badge/Ruby-3.3+-red.svg)
-![GitHub Actions](https://img.shields.io/github/actions/workflow/status/your-org/repo-name/tests.yml?branch=main)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Enterprise-grade API testing solution with Cucumber and Ruby.
