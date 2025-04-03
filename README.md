@@ -5,13 +5,14 @@
 
 Enterprise-grade API testing solution with Cucumber and Ruby.
 
-## Table of Contents
+## Navigation
 - [Features](#features)
 - [Quick Start](#quick-start)
 - [Running Tests](#running-tests)
 - [Contributing](#contributing)
 - [License](#license)
 
+<a id="features"></a>
 ## ✨ Features
 | Feature | Description |
 |---------|-------------|
